@@ -1,5 +1,7 @@
 # ROS 2 专家助手 Skill
 
+**ClawHub 地址**: https://clawhub.ai/skills/ros2-expert
+
 基于 ROS 2 Humble 版本的智能专家助手，提供工程开发、架构分析、学习教学、环境配置四大核心能力。
 
 ## 功能特性
@@ -30,14 +32,19 @@
 - **官方文档**: [ROS 2 Humble 文档](http://fishros.org/doc/ros2/humble/)
 - **配置工具**: [小鱼一键安装工具](https://fishros.org.cn/forum/topic/20/)
 
-## 使用方式
+## 安装使用
 
-### 在 Coze 平台使用
+### 方式一：从 ClawHub 安装（推荐）
 
-1. 下载 `ros2-expert.skill` 文件
-2. 在 Coze 平台创建或编辑 Bot
-3. 上传 Skill 文件到 Bot 配置
-4. 开始与 Bot 对话，自动识别需求类型并切换对应模式
+在 Openclaw 中直接搜索并安装：
+- ClawHub 地址: https://clawhub.ai/skills/ros2-expert
+
+### 方式二：从 GitHub 安装
+
+在 Openclaw 中使用 GitHub 仓库地址安装：
+```
+git@github.com:Jessy-Huang/ros2-expert-skill.git
+```
 
 ### 触发场景示例
 
