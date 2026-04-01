@@ -2,6 +2,8 @@
 
 **ClawHub 地址**: https://clawhub.ai/skills/ros2-expert
 
+[![ClawHub](https://img.shields.io/badge/ClawHub-ros2--expert-blue)](https://clawhub.ai/skills/ros2-expert)
+
 基于 ROS 2 Humble 版本的智能专家助手，提供工程开发、架构分析、学习教学、环境配置四大核心能力。
 
 ## 功能特性
