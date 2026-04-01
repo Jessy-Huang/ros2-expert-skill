@@ -135,7 +135,7 @@ ros2 run demo_nodes_py listener
 
 ## 许可证
 
-Apache-2.0 License
+MIT License
 
 ## 联系方式
 
