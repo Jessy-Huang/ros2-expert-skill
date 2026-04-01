@@ -1,6 +1,6 @@
 [skill]
-name=""
-description=""
-skill_package=""
-project_name=""
-project_description=""
+  skill_package = "ros2-expert.skill"
+  name = "ros2-expert"
+  description = "ROS 2 专家助手，提供工程开发辅助、架构分析、学习教学、环境配置四大能力；当用户需要开发 ROS 2 应用、分析工程代码、学习 ROS 2 知识、或安装配置环境时使用。"
+  project_name = "ROS 2 专家助手"
+  project_description = "ROS 2 专家助手"
