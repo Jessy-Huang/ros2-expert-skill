@@ -4,7 +4,7 @@
 
 [![ClawHub](https://img.shields.io/badge/ClawHub-ros2--expert-blue)](https://clawhub.ai/skills/ros2-expert)
 
-基于 ROS 2 Humble 版本的智能专家助手，提供工程开发、架构分析、学习教学、环境配置四大核心能力。
+基于 ROS 2 Humble 版本的智能专家助手，提供工程开发、架构分析、学习教学、环境配置、项目实战引导五大核心能力。
 
 ## 功能特性
 
@@ -28,6 +28,12 @@
 - 一键安装工具使用指导
 - 安装后环境检验
 - 常见问题诊断与解决
+
+### 🎯 项目实战引导
+- 精选开源项目推荐（SO-ARM100、reBot-DevArm、lerobot-ros）
+- 项目代码结构化解读
+- 通信机制深度分析
+- AI 增强型实战任务设计
 
 ## 知识来源
 
